@@ -44,7 +44,7 @@ document.querySelector("footer").innerHTML=pie
 navegador=` <ul>
 <li><a class="icono" href="index.html">Home</a></li>
 <li><a class="icono" href="quienessomos.html">Quienes somos</a></li>
-<li><a class="icono" href="registroylogin.html">Registro y Login</a></li>
+<li><a class="icono" href="registroylogin.html">Registro de Clientes</a></li>
 <li><a class="icono" href="destinos.html">Destinos</a></li>
 <li><a class="icono" href="contactoysucursales.html">Contacto y Sucursales</a></li>
 <li><a class="icono" href="preguntasfrecuentes.html">Preguntas Frecuentes</a></li>
